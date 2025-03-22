@@ -72,4 +72,3 @@ Welcome to DevOps Flask App!
 
 ## GitHub Repository  
 [https://github.com/rkrish15/flask-devops-app](https://github.com/rkrish15/flask-devops-app)  
-```
