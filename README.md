@@ -1,6 +1,3 @@
-Here's a clean and to-the-point `README.md` file without any extra formatting:  
-
----
 
 ### **README.md**  
 
